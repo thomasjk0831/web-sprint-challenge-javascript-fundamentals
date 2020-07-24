@@ -17,7 +17,7 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-//it can access an outside variable from inside of the nested function because of closure.
+//it can access an outside variable from inside of the nested function and store it because of closure.
 
 /* Task 2: Counter */
 
